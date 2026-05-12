@@ -1,0 +1,5 @@
+print("Enter customer name: ")
+customername = input()
+print("Enter item purchased: ")
+itempurchased  = input()
+print("Hello, " + str(customername) + " You have purchased " + str(itempurchased) )
